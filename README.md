@@ -12,8 +12,8 @@ Esta es una aplicación con una vulnerabilidad de inyección NoSQL. Permite inic
 ## Instalación
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/nosql-vuln-app.git
-cd nosql-vuln-app
+git clone https://github.com/dinovillalobos/AppVulnerable2.git
+cd AppVulnerable
 ```
 2. Instalar dependencias en la carpeta `backend`
 ```bash
